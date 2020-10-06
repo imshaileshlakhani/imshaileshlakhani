@@ -34,11 +34,6 @@
 
 
 
-[![Twitter: parthGalani2]()]()
-[![Linkedin: imthepg]()
-[![GitHub iamparthgalani]()
-[![website]()
-
 **Languages and Tools Use:**  
 
 
