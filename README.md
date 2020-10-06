@@ -28,7 +28,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g).
 - 🤔 I’m looking for help with UI Design.
 - 💬 Ask me about UI Design or any Design tools related stuff.
-- 📫 How to reach me: [Twitter - @parthGalani2](https://twitter.com/parthGalani2) , [Youtube - @Uiex design](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g)
+- 📫 How to reach me: [Twitter - ]() , [Youtube -]()
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 5 hours listening to songs & See Movies every day to enjoy life in rest time.
 
