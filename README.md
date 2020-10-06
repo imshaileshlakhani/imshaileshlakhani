@@ -1,4 +1,4 @@
-## Hola, I'm [Shilesh Lakhani!](https://18soece11028.dx.am) 
+## Hola, I'm [Shailesh Lakhani!](https://18soece11028.dx.am) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shailesh-294&label=Profile View's&color=blue&style=plastic" alt="Shailesh-294" /> </p>
 
