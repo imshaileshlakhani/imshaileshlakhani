@@ -25,7 +25,7 @@
 <br/>
 
 - 🌱 I’m currently learning Mobile Application Design & development.
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g).
+- 👯 I’m looking to collaborate on [Youtube]().
 - 🤔 I’m looking for help with UI Design.
 - 💬 Ask me about UI Design or any Design tools related stuff.
 - 📫 How to reach me: [Twitter - ]() , [Youtube -]()
@@ -34,11 +34,10 @@
 
 
 
-[![Twitter: parthGalani2](https://img.shields.io/twitter/follow/parthGalani2?style=social)](https://twitter.com/parthGalani2)
-[![Linkedin: imthepg](https://img.shields.io/badge/-imthepg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepg/)](https://www.linkedin.com/in/imthepg/)
-[![GitHub iamparthgalani](https://img.shields.io/github/followers/iamparthgalani?label=follow&style=social)](https://github.com/iamparthgalani)
-[![website](https://img.shields.io/badge/PortfolioWebsite-parthgalani.dx.am-2648ff?style=flat-square&logo=google-chrome)](http://parthgalani.dx.am/)
-
+[![Twitter: parthGalani2]()]()
+[![Linkedin: imthepg]()
+[![GitHub iamparthgalani]()
+[![website]()
 
 **Languages and Tools Use:**  
 
