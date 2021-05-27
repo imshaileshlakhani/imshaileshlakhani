@@ -1,24 +1,24 @@
-## Hello, I'm [Shailesh Lakhani!](https://18soece11028.dx.am) 
+## Hello, I'm [Shailesh Lakhani!](http://shaileshlakhani.epizy.com/) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shailesh-294&label=Profile View's&color=blue&style=plastic" alt="Shailesh-294" /> </p>
 
-<a href="https://twitter.com/parthGalani2">
-  <img align="left" alt="Parth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="#">
+  <img align="left" alt="Shailesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/imthepg">
-  <img align="left" alt="Parth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/imshaileshlakhani/">
+  <img align="left" alt="Shailesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/iamparthgalani">
-  <img align="left" alt="Parth's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/Shailesh-294">
+  <img align="left" alt="Shailesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/parth_galani13/">
-  <img align="left" alt="Parth's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="#">
+  <img align="left" alt="Shailesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/parth.galani.50/">
-  <img align="left" alt="Parth's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="#">
+  <img align="left" alt="Shailesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g/">
-  <img align="left" alt="Parth's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="#">
+  <img align="left" alt="Shailesh's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
