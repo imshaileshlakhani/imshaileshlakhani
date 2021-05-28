@@ -11,7 +11,7 @@
 <a href="https://github.com/Shailesh-294">
   <img align="left" alt="Shailesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="#">
+<a href="https://www.instagram.com/sendy_patel_29/">
   <img align="left" alt="Shailesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://m.facebook.com/saylas.lakhana">
