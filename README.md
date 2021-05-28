@@ -14,7 +14,7 @@
 <a href="#">
   <img align="left" alt="Shailesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="#">
+<a href="https://m.facebook.com/saylas.lakhana">
   <img align="left" alt="Shailesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="#">
@@ -28,7 +28,7 @@
 - 👯 I’m looking to collaborate on [Youtube]().
 - 🤔 I’m looking for help with UI Design.
 - 💬 Ask me about UI Design or any Design tools related stuff.
-- 📫 How to reach me: [Twitter - ]() , [Youtube -]()
+- 📫 How to reach me: [Linkedin - ](https://www.linkedin.com/in/imshaileshlakhani/) , [Youtube -]()
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 5 hours listening to songs & See Movies every day to enjoy life in rest time.
 
