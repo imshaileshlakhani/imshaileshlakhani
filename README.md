@@ -1,4 +1,4 @@
-## Hello, I'm [Shailesh Lakhani!](http://shaileshlakhani.epizy.com/) 
+## Hello, I'm [Shailesh Lakhani!](https://www.shaileshlakhani.me/) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shailesh-294&label=Profile View's&color=blue&style=plastic" alt="Shailesh-294" /> </p>
 
@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/imshaileshlakhani/">
   <img align="left" alt="Shailesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Shailesh-294">
+<a href="https://github.com/imshaileshlakhani">
   <img align="left" alt="Shailesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/sendy_patel_29/">
