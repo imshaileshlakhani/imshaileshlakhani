@@ -29,8 +29,6 @@
 - 🤔 I’m looking for help with UI Design.
 - 💬 Ask me about UI Design or any Design tools related stuff.
 - 📫 How to reach me: [Linkedin - ](https://www.linkedin.com/in/imshaileshlakhani/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 5 hours listening to songs & See Movies every day to enjoy life in rest time.
 
 
 
