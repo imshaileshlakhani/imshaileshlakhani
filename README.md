@@ -28,7 +28,7 @@
 - 👯 I’m looking to collaborate on [Youtube]().
 - 🤔 I’m looking for help with UI Design.
 - 💬 Ask me about UI Design or any Design tools related stuff.
-- 📫 How to reach me: [Linkedin - ](https://www.linkedin.com/in/imshaileshlakhani/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imshaileshlakhani/)
 
 
 
